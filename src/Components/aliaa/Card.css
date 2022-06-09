@@ -1,0 +1,22 @@
+.card-container {
+  background-color: rgb(231, 224, 224);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  width: 35%;
+  border-radius: 15px;
+  padding: 10px;
+  text-align: center;
+}
+.card body {
+  font-size: 20px;
+  font-weight: 500;
+}
+.card img {
+  border-radius: 50%;
+  width: 60%;
+}
