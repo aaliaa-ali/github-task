@@ -1,0 +1,21 @@
+.taha {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 200, 200);
+}
+
+.taha-card {
+    width: 15rem;
+    height: 19rem;
+    background-color: #fff;
+}
+.taha-card img {
+    width: 15rem;
+    height: 12rem;
+}
+.taha-card__body {
+ text-align: start;
+ padding: 10px;
+}
