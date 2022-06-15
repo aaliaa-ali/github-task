@@ -1,15 +1,9 @@
 import React from "react";
-
-function EsraaCard() {
-  const card = {
-    border: "1px solid #e1e1e1",
-    width: "50%",
-    margin: "auto",
-    boxShadow: "-1px 4px 5px rgba(0,0,0,0.13)",
-  };
+import './EsraaCard.css'
+const EsraaCard = () => {
   return (
     <div>
-      <div style={card}>
+      <div className="card">
         <img
           style={{ width: "25%", borderRadius: "50%" }}
           src="https://i.pinimg.com/736x/9d/1b/77/9d1b77e2a4468304372aa37692627d2a.jpg"
