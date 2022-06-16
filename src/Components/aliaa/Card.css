@@ -1,10 +1,4 @@
-.card-container {
-  background-color: rgb(231, 224, 224);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-}
+
 .card {
   background-color: white;
   width: 35%;

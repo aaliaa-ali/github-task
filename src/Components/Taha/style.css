@@ -1,5 +1,4 @@
 .taha {
-    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,6 +9,7 @@
     width: 15rem;
     height: 19rem;
     background-color: #fff;
+    padding: 20px;
 }
 .taha-card img {
     width: 15rem;
